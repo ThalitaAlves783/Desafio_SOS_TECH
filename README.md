@@ -16,6 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://expo.io/)
 - [framework Python Django](https://nodejs.org/en/)
+- django-ckeditor, biblioteca javascripst ultilizada para facilitar a edição de imagens,texto e links, é ultilizada pelo Wordpress
 
 Feito com ❤️ por Thalita Alves 👋🏽 Entre em contato!
 
